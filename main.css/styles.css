@@ -1,0 +1,15 @@
+.people {
+    font: status-bar;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.communication {
+    font: status-bar; 
+    font-family: 'Courier New', Courier, monospace;
+
+}
+div {
+    background-color: aqua;
+    color: black;
+}
